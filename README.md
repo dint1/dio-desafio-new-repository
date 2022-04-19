@@ -23,6 +23,8 @@ Comando para acessar pastas do diretório.
 >  **git .add  ou git add -A**\
 Comando que adiciona arquivos ao controle de versão local.
 
->  **git commit -m ""Mensagem**\ fazendo a modificação das alterações.
+>  **git commit -m "Mensagem"**\
+Comando para fazer a alteração das modificações.
 
-> **git push origin main**\ Comando que envia alterações feitas no servidor local para o servidor remoto git.
+> **git push origin main**\
+Comando que envia alterações feitas no servidor local para o servidor remoto git.
