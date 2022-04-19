@@ -28,3 +28,9 @@ Comando para fazer a alteração das modificações.
 
 > **git push origin main**\
 Comando que envia alterações feitas no servidor local para o servidor remoto git.
+
+
+# COMO CRIPTOGRAFAR UM ARQUIVO DE TEXTO NO GIT
+Através do comando abaixo é possível criptografar um arquivo de texto usando o algoritmo SHA1 que permite usar
+um conjunto de caracteres identificadores de 40 dígitos.
+> openssl sha1 nomeDoArquivo.txt
